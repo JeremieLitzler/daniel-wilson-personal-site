@@ -5,7 +5,7 @@ heroFullScreen: true
 heroText: 'Screenplay writer based in Florida'
 heroImage: /icons/android-chrome-192x192.png
 tagline: "A tagline..."
-title: "Daniel Wilson"
+title: "Home"
 description: "A description..."
 actions:
   - text: 'Hire me'
