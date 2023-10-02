@@ -1,0 +1,20 @@
+{
+    "name": "Daniel Wilson",
+    "short_name": "DW",
+    "description": "A description...",
+    "icons": [{
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }, {
+        "src": "/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }],
+    "start_url": "https://danielwilson.netlify.app/",
+    "display": "fullscreen",
+    "theme_color": "#209cee",
+    "background_color": "#209cee"
+}
