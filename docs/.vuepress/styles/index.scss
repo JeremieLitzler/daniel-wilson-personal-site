@@ -76,6 +76,12 @@ img {
   flex-direction: column;
 }
 
+@media (max-width: 419px) {
+  .vp-hero-image {
+    max-height: 6rem;
+  }
+}
+
 .vp-actions a {
   margin-bottom: 1em;
 }

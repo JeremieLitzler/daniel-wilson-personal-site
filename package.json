@@ -1,7 +1,7 @@
 {
-  "name": "journal",
-  "version": "1.0.35",
-  "description": "A template for Vuepress site using Mr Hope's theme",
+  "name": "daniel-wilson",
+  "version": "1.0.0",
+  "description": "The personal website of Daniel Wilson",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/daniel-wilson-personal-site",
   "author": "Jérémie Litzler <puzzlout@gmail.com>",
