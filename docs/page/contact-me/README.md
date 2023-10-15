@@ -11,7 +11,7 @@ description: "Don't hesitate to get in touch with me for questions or a job offe
 article: false
 ---
 
-## Si vous hésitez à faire le pas ou que vous souhaitez discuter de votre besoin, contactez-moi.
+## Don't hesitate to get in touch with me for questions or a job offer.
 
 <!-- markdownlint-disable MD033 -->
 

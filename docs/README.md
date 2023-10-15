@@ -2,7 +2,7 @@
 home: true
 containerClass: landing-page no-toc no-narbar-center no-breadcrumb no-page-info no-mobile-menu
 heroFullScreen: true
-heroText: 'Screenplay writer based in Florida'
+heroText: 'A writer based in Florida'
 heroImage: /icons/android-chrome-192x192.png
 tagline: "A tagline..."
 title: "Home"
@@ -12,7 +12,10 @@ actions:
     link: '#hire-me'
     type: primary
   - text: 'My screenplays'
-    link: '/category/screenplays'
+    link: '/page/screenplays/'
+    type: secondary
+  - text: 'My poems'
+    link: '/category/poems/'
     type: secondary
 # head:
 #   - [
